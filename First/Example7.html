@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<fieldset>
+    <legend>폼 요소 그룹 제목</legend>  <!--폼요소를 그룹으로 묶음 fieldset과 같이 사용-->
+    <form action="server.js" method="get">  <!--action 처리할 서버상 프로그램 지정
+                                            method 어떻게 넘겨줄지 지정-->
+        <input type="text" title="검색"/>   <!---->
+        <label id="label">                  <!--폼 요소에 레이블 붙이는 첫번째 방법-->
+            <input type="submit" value="검색"/>
+        </label>
+        <label for="input_id">두번째</label><!--폼 요소에 레이블 붙이는 두번째 방법-->
+        <input id="input_id" type="text">
+    </form>
+</fieldset>
+
+</body>
+</html>
