@@ -25,4 +25,4 @@
 </body>
 </html>
 ```
-![htmlTag](/Users/iyeongjun/Desktop/htmlTag1.png)
+![htmlTag](/usr/local/myimage/htmlTag1.png)
