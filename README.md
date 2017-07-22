@@ -38,13 +38,13 @@
     <title>Title</title>
 </head>
 <body>
-<strong>강조할 태그<br></strong> <!--강조할 태그-->
-<b>굵게 표시할 태그<br></b>      <!--굵게 표시할 태그-->
-<i>이탤릭체로 표시할 텍스트<br></i> <!--이탤릭체로 표시하는 태그-->
-<em>이탤릭체로 강조할 텍스트<br></em><!--이탤릭체로 강조하는 태그-->
+<strong>강조할 태그<br></strong>    <!--강조할 태그-->
+<b>굵게 표시할 태그<br></b>          <!--굵게 표시할 태그-->
+<i>이탤릭체로 표시할 텍스트<br></i>    <!--이탤릭체로 표시하는 태그-->
+<em>이탤릭체로 강조할 텍스트<br></em>  <!--이탤릭체로 강조하는 태그-->
 <h1>인용 제목<br></h1>
-<q>인용 부분 표시하기</q><br> <!--인용 부분 표시하기-->
-<mark>형광펜 효과 내기</mark> <!--형광펜 효과 내기-->
+<q>인용 부분 표시하기</q><br>         <!--인용 부분 표시하기-->
+<mark>형광펜 효과 내기</mark>        <!--형광펜 효과 내기-->
 </body>
 </html>
 ```
@@ -60,7 +60,7 @@
 </head>
 <body>
  <ul>                       <!--순서가 필요하지 않은 목록 만들기-->
-     <li> 목록1 </li>       <!--목록 만들기 </li>는 생략 가능-->
+     <li> 목록1 </li>        <!--목록 만들기 </li>는 생략 가능-->
      <li> 목록2 </li>
      <li> 목록3 </li>
  </ul>
@@ -120,12 +120,12 @@
     <title>Title</title>
 </head>
 <body>
-<img src="htmlTag1.png">                         <!--이미지 불러오기-->
-<img src="htmlTag1.png" alt="홈으로 가기"/>       <!--alt 속성 이미지를 설명해주는 텍스트-->
-<img src="htmlTag1.png" width="200" height="120"><!--이미지 크기 조정-->
-<figure>                                         <!--설명 글을 붙일 대상 지정-->
+<img src="htmlTag1.png">                          <!--이미지 불러오기-->
+<img src="htmlTag1.png" alt="홈으로 가기"/>          <!--alt 속성 이미지를 설명해주는 텍스트-->
+<img src="htmlTag1.png" width="200" height="120"> <!--이미지 크기 조정-->
+<figure>                                          <!--설명 글을 붙일 대상 지정-->
     <img src="htmlTag1.png">
-    <figcaption>설명부분</figcaption>             <!--설명 글 붙이기-->
+    <figcaption>설명부분</figcaption>               <!--설명 글 붙이기-->
 </figure>
 
 </body>
