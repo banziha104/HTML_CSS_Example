@@ -26,7 +26,7 @@
 </body>
 </html>
 ```
-![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/example1.jpg)
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example1.png)
 
 -----
 ### 텍스트를 한 줄로 표시하는 태그
@@ -49,6 +49,7 @@
 </body>
 </html>
 ```
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example2.png)
 -----
 ### 목록을 만드는 태그
 ----
@@ -81,6 +82,7 @@
 </html>
 ```
 
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example3.png)
 -----
 ### 표를 만드는 태그
 ----
@@ -110,6 +112,7 @@
 </html>
 ```
 
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example4.png)
 -----
 ### 이미지 넣기 태그
 ----
@@ -133,6 +136,7 @@
 </html>
 ```
 
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example5.png)
 -----
 ### 링크
 ----
@@ -157,6 +161,7 @@
 </html>
 ```
 
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example6.png)
 -----
 ### Form 태그
 ----
@@ -184,6 +189,8 @@
 </body>
 </html>
 ```
+
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example7.png)
 -----
 ### Input 타입
 ----
@@ -219,6 +226,7 @@
 </html>
 ```
 
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example8.png)
 -----
 ### Input 속성
 ----
@@ -242,3 +250,5 @@
 </body>
 </html>
 ```
+
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/ScreenShot/example9.png)
