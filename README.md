@@ -3,7 +3,7 @@
 ## HTML
 ----
 
-### 텍스트를 한 줄로 표시하는 태그
+### 기본 태그
 -----
 ```html
  <!DOCTYPE html> <!-- 문서 유형을 html로 지정-->
@@ -26,6 +26,7 @@
 </body>
 </html>
 ```
+![example1](https://github.com/banziha104/HTML_CSS_Example/blob/master/example1.jpg)
 
 -----
 ### 텍스트를 한 줄로 표시하는 태그
