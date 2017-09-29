@@ -21,6 +21,7 @@ p:nth-child(2){font-size: 32px;}
 p:nth-child(2){font-size: 48px;}
 ```
 
+---
 # 색상단위
 
 <li> #000000 : HEX 코드
@@ -30,6 +31,7 @@ p:nth-child(2){font-size: 48px;}
 <li> hsla(hue,saturation,lightness,alpha) : HSL 색상단위
 <li> rgb(red,green,blue) : RGB 색상단위
 
+---
 # URL 단위
 
 이미지나 폰트 파일을 불러올 때 사용

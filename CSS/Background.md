@@ -1,3 +1,4 @@
+---
 # background-image
 
 ```css
@@ -6,6 +7,7 @@ body{
 }
 ```
 
+---
 # background-size
 
 ```css
@@ -15,6 +17,7 @@ body{
 }
 ```
 
+---
 # background-repeat
 
 ```css
@@ -25,6 +28,7 @@ body{
 }
 ```
 
+---
 # background-attachment
 
 <li> scroll : default, 스크롤 하면 배경도 같이 올라감
@@ -38,6 +42,7 @@ body{
 }
 ```
 
+---
 # background-position 
 
 <li> background-position: 키워드;

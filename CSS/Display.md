@@ -1,3 +1,4 @@
+---
 # 가시 속성
 
 <li> none : 화면에서 보이지 않게 만듬
@@ -29,6 +30,7 @@
 </style>
 ```
 
+---
 # visibility 속성
 
 <li> visible : 태그를 보이게 만듬
@@ -47,6 +49,7 @@
 </style>
 ```
 
+---
 # opacitiy 속성
 
 ```css

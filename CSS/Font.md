@@ -6,6 +6,7 @@
 .a {font-size: 30px;}
 ```
 
+---
 # font-family
 
 폰트의 서체를 지정함
@@ -17,6 +18,7 @@
 }
 ```
 
+---
 # font-style 과 font weight
 
 ```css
@@ -27,6 +29,7 @@
 }
 ```
 
+---
 # line-height
 
 ```css
@@ -39,6 +42,7 @@
 }
 ```
 
+---
 # text-align
 
 글자 좌우 정렬
@@ -55,6 +59,7 @@
 }
 ```
 
+---
 # text-decoration
 
 ```css
