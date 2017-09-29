@@ -49,6 +49,3 @@ body{
 <li> background-position: X축크기; 
 <li> background-position: X축크기 Y축크기
 
-```css
-
-```
