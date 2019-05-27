@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .father {
+            display: grid;
+            /*grid 템플릿 크기 지정*/
+            /*grid-template-columns: 300px 150px;*/
+            /*grid-template-rows: 300px 150px;*/
+            grid-gap: 5px;
+            /*초과로 존재하는 자식에 대해 적용*/
+            /*grid-auto-rows: 60px;*/
+            /*grid-auto-columns: 60px;*/
+            /*grid-auto-flow : column;*/
+
+            grid-auto-rows: 200px;
+
+            grid-template-areas: "header header header" "content content content" "content content sidebar" "footer footer footer";
+        }
+
+        .first {
+            grid-area: header;
+            background-color: yellow;
+        }
+
+        .second {
+            grid-area: sidebar;
+            background-color: greenyellow;
+        }
+
+        .third {
+            grid-area: footer;
+            background-color: cornflowerblue;
+        }
+
+        .fourth {
+            grid-area: content;
+            background-color: orangered;
+        }
+    </style>
+</head>
+<body>
+<div class="father">
+    <div class="first"></div>
+    <div class="second"></div>
+    <div class="third"></div>
+    <div class="fourth"></div>
+</div>
+</body>
+</html>
